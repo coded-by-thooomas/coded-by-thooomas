@@ -1,16 +1,10 @@
 ## Hi 👋! I'm Thomas ;)
+### And I'm an enthusiastic full-stack programmer
 
-<!--
-**coded-by-thooomas/coded-by-thooomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on next_day frontend+backend
+- 🌱 I’m currently learning java + Vue.js
+- 💬 Ask me about networking (that's where I do best)
+- ⚡ Fun fact: When I'm not coding, I'm probably cooking ;)
 
-Here are some ideas to get you started:
-
-🔭 I’m currently working on next_day frontend+backend
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact me
+- pls via instagram :)
